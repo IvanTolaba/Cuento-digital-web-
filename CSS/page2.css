@@ -1,0 +1,30 @@
+html {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuxP8U9TgaohbqHLaf1nmAcM-S9nfRV48-SJ5dulHrls8maG12v3AUETj2H1lRAFnvXf0&usqp=CAU");
+        
+}
+header{
+    display: flex;
+    justify-content: center;
+    
+}
+footer{
+    display: flex;
+    justify-content: end;
+    cursor: pointer;
+}
+main figure img{
+    height: 250px;
+    width: 250px;
+}
+p{
+    color: rgba(199, 213, 218, 0.942);
+    font-size: large;
+}
+footer img{
+    display: flex;
+    justify-content: center;
+    border-radius: 50%;
+
+    width: 88px;
+    height: 88px;
+}
