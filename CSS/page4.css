@@ -1,21 +1,27 @@
 html {
     background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuxP8U9TgaohbqHLaf1nmAcM-S9nfRV48-SJ5dulHrls8maG12v3AUETj2H1lRAFnvXf0&usqp=CAU");
-        
+    font-size: 62.5%;    
 }
 p{
     color: rgba(237, 242, 243, 0.942);
     font-size: large;
 }
+main figure{
+    display: flex;
+    justify-content: center;
+    height: 13rem;
+}
 footer{
     display: flex;
     justify-content: end;
     cursor: pointer;
+    margin-top: 16rem;
 }
 footer img{
     display: flex;
     justify-content: center;
     border-radius: 50%;
-
     width: 88px;
     height: 88px;
+    
 }
