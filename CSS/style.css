@@ -7,13 +7,21 @@ header{
     width: 100%;
     height: 100px;
     margin-bottom: 80px;
+    margin-top: 2.5rem;
 }
 
 header figure{
     display: flex;
     justify-content: center;
     height: 13rem;
+    
 }
+header figure img{
+    border-radius: 50%;
+
+    animation: rotation 8s infinite linear;
+}
+
 h1 {
     font-style:normal;
     font-weight:bold;
@@ -52,7 +60,14 @@ footer img{
 }
 
 
-
+@keyframes rotation {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(219deg);
+    }
+  }
 
 
 

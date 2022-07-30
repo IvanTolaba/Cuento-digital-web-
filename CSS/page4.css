@@ -10,12 +10,13 @@ main figure{
     display: flex;
     justify-content: center;
     height: 13rem;
+    margin-top: 8rem;
 }
 footer{
     display: flex;
     justify-content: end;
     cursor: pointer;
-    margin-top: 16rem;
+    margin-top: 10rem;
 }
 footer img{
     display: flex;
