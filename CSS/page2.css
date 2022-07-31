@@ -2,10 +2,18 @@ html {
     background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuxP8U9TgaohbqHLaf1nmAcM-S9nfRV48-SJ5dulHrls8maG12v3AUETj2H1lRAFnvXf0&usqp=CAU");
         
 }
-header{
+header {
     display: flex;
     justify-content: center;
     
+}
+header h1 {
+    margin-right: 1.9rem;
+    font-style:normal;
+    font-weight:bold;
+    font-size:1.1rem;
+    color: beige;
+    font-family:'Helvetica','Verdana','Monaco',sans-serif;
 }
 footer{
     display: flex;
