@@ -1,6 +1,7 @@
 html {
     background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuxP8U9TgaohbqHLaf1nmAcM-S9nfRV48-SJ5dulHrls8maG12v3AUETj2H1lRAFnvXf0&usqp=CAU");
     font-size: 62.5%;   
+    
 }
 
 header{
@@ -55,7 +56,6 @@ footer img{
     cursor: pointer;
     width: 8.8rem;
     height: 8.8rem;    
-
 }
 
 
