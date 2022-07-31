@@ -65,22 +65,8 @@ footer img{
       transform: rotate(0deg);
     }
     to {
-      transform: rotate(300deg);
+      transform: rotate(359deg);
     }
   }
 
 
-
-
-/*.rotate {
-    animation: rotation 8s infinite linear;
-}
-  
-@keyframes rotation {
-    from {
-      transform: rotate(0deg);
-    }
-    to {
-      transform: rotate(100deg);
-    }
-  }
