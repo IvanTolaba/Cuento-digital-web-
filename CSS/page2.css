@@ -1,6 +1,6 @@
 html {
     background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuxP8U9TgaohbqHLaf1nmAcM-S9nfRV48-SJ5dulHrls8maG12v3AUETj2H1lRAFnvXf0&usqp=CAU");
-        
+    font-size: 62.5%;    
 }
 header {
     display: flex;
@@ -21,8 +21,10 @@ footer{
     cursor: pointer;
 }
 main figure img{
-    height: 250px;
-    width: 250px;
+    /*height: 250px;
+    width: 250px;*/
+    height: 19rem;
+    width: 19rem;
     
 }
 p{
