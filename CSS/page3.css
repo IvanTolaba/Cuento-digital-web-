@@ -3,13 +3,35 @@ html {
     background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuxP8U9TgaohbqHLaf1nmAcM-S9nfRV48-SJ5dulHrls8maG12v3AUETj2H1lRAFnvXf0&usqp=CAU");
     font-size: 62.5%;     
 }
+header{
+    margin-top: 3rem;
+}
+
+h1{
+    font-style:normal;
+    font-weight:bold;
+    font-size:1.8rem;
+    color: beige;
+    font-family:'Helvetica','Verdana','Monaco',sans-serif;
+    margin-right: 2rem;
+}
+
 main{
     display: flex;
     justify-content: center;
 }
+
 p{
-    color: rgba(237, 242, 243, 0.942);
-    font-size: large;
+    font-style: normal ;
+    font-size:1.6rem;
+    font-weight:normal;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0.5rem;
+    white-space: normal;
+    color: rgb(221, 233, 232);
+    font-family: Arial, Helvetica, sans-serif; 
+    /*font-family:'Helvetica','Verdana','Monaco',sans-serif;*/
 }
 main iframe{
     width: 230px;
@@ -20,6 +42,13 @@ footer{
     justify-content: end;
     cursor: pointer;
 }
+
+footer p{
+    color: coral;
+    margin-right: 2rem;
+    margin-top: 3.5rem;
+}
+
 footer img{
     display: flex;
     justify-content: center;
