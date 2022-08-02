@@ -41,22 +41,24 @@ p{
 footer{
     /*display: flex;
     justify-content: end;*/
-    margin-right: 2rem;
+
+    /*margin-right: 2rem;
     margin-top: 5rem;    
-    margin-bottom: 0rem;
+    margin-bottom: 0rem;*/
 }
-.der{
+ul{
     display: flex;
-    justify-content: end;
-    
+    justify-content: center;
+    margin-right: 11rem;
+        
 }
-.izq{
+
+izq{
     display: flex;
     justify-content: start;
-    padding: 0rem;
-    
-    
 }
+
+    
 footer p{
     color: coral;
     margin-right: 2rem;
