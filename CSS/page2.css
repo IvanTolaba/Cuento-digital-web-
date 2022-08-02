@@ -49,16 +49,27 @@ footer{
 ul{
     display: flex;
     justify-content: center;
-    margin-right: 11rem;
+    /*margin-right: 11rem;*/
         
 }
 
-izq{
-    display: flex;
-    justify-content: start;
+
+.izq{
+    margin-right: 0rem;
 }
 
-    
+.iconi{
+    margin-right: 36rem;
+}
+
+.der{
+    margin-right: 0rem;
+}
+
+.icond{
+    margin-right: 36rem;
+}
+
 footer p{
     color: coral;
     margin-right: 2rem;
