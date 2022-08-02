@@ -5,37 +5,63 @@ html {
 header {
     display: flex;
     justify-content: center;
+    margin-top: 4rem;
     
 }
 header h1 {
-    margin-right: 1.9rem;
     font-style:normal;
     font-weight:bold;
-    font-size:1.5rem;
+    font-size:1.8rem;
     color: beige;
     font-family:'Helvetica','Verdana','Monaco',sans-serif;
+    margin-right: 2rem;
 }
-footer{
+
+main{
+    margin-top: 5rem;
     display: flex;
-    justify-content: end;
-    cursor: pointer;
+    justify-content: center;
 }
+
 main figure img{
-    /*height: 250px;
-    width: 250px;*/
     height: 19rem;
     width: 19rem;
+    margin-right: 2rem;
+    margin-left: 2rem;
+    border-radius: 10%;    
     
 }
 p{
     color: rgba(199, 213, 218, 0.942);
     font-size: large;
 }
+
+footer{
+    display: flex;
+    justify-content: end;
+    margin-right: 2rem;
+    margin-top: 5rem;
+    
+}
+
+footer p{
+    color: coral;
+    margin-right: 2rem;
+    margin-top: 3.5rem;
+}
+
 footer img{
+    /*display: flex;
+    justify-content: center;
+    border-radius: 50%;
+    cursor: pointer;
+    width: 88px;
+    height: 88px;*/
+
     display: flex;
     justify-content: center;
     border-radius: 50%;
-
-    width: 88px;
-    height: 88px;
+    cursor: pointer;
+    width: 7.9rem;
+    height: 7.9rem;    
 }
