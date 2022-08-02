@@ -31,14 +31,24 @@ h1 {
 }
 
 p{
-    color: rgba(221, 232, 228, 0.942);
-    font-size: large;
+    font-style: normal ;
+    font-size:1.6rem;
+    font-weight:normal;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0.5rem;
+    white-space: normal;
+    color: rgb(221, 233, 232);
+    font-family: Arial, Helvetica, sans-serif; 
+    /*font-family:'Helvetica','Verdana','Monaco',sans-serif;*/
+    
 }
 
 
 footer{
     display: flex;
     justify-content: end;
+    margin-right: 2rem;
 }
 footer p{
     color: coral;
@@ -54,8 +64,8 @@ footer img{
     justify-content: center;
     border-radius: 50%;
     cursor: pointer;
-    width: 8.8rem;
-    height: 8.8rem;    
+    width: 7.9rem;
+    height: 7.9rem;    
 }
 
 
