@@ -1,5 +1,5 @@
 html {
-    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuxP8U9TgaohbqHLaf1nmAcM-S9nfRV48-SJ5dulHrls8maG12v3AUETj2H1lRAFnvXf0&usqp=CAU");
+    background-image: url("https://cdn.pixabay.com/photo/2014/02/02/17/41/photos-256889__480.jpg");
     font-size: 62.5%;   
     
 }
@@ -55,11 +55,7 @@ footer p{
     margin-right: 2rem;
     margin-top: 3.5rem;
     font-family: Arial, Helvetica, sans-serif; 
-
-
-}
-.title{
-    font-family:n ;
+    font-size: 1.5rem;
 }
 
 footer img{

@@ -1,5 +1,5 @@
 html {
-    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuxP8U9TgaohbqHLaf1nmAcM-S9nfRV48-SJ5dulHrls8maG12v3AUETj2H1lRAFnvXf0&usqp=CAU");
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ139s4JKikCmd9dHn3X51aeXbZ7ZKXeSIPRA&usqp=CAU");
     font-size: 62.5%;    
 }
 
@@ -43,6 +43,8 @@ footer p{
     color: coral;
     margin-right: 2rem;
     margin-top: 3.5rem;
+    font-size: 1.5rem;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 footer img{
