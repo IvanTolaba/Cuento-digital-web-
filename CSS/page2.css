@@ -44,7 +44,7 @@ footer{
     /*display: flex;
     justify-content: end;*/
 
-    margin-right: 0.4rem;
+    margin-right: 0.2rem;
     margin-top: 5rem;    
     /*margin-bottom: 0rem;*/
     margin-left: 8rem;
@@ -59,24 +59,23 @@ ul{
 
 
 .izq{
-    margin-right: 0px;
-    margin-left: 0rem;
+    margin-right: 0rem;
+    margin-left: 0rem;    
 }
 
 .iconi{
-    margin-right: 2rem;
+    margin-right: 0rem;
     margin-left: 0rem;    
 }
 
 .der{
-    margin-right: 0rem;
-    margin-left: 2rem;
+    margin-right: 1rem;
+    margin-left: 1rem;
 }
 
 .icond{
-    margin-right: 6rem;
+    margin-right: 2rem;
     margin-left: 0rem;
-
     
 }
 
