@@ -26,17 +26,51 @@ p{
     font-family: Arial, Helvetica, sans-serif; 
     /*font-family:'Helvetica','Verdana','Monaco',sans-serif;*/
 }
-main figure{
+main{
     display: flex;
     justify-content: center;
-    height: 13rem;
-    margin-top: 8rem;
 }
+.imagen{
+    
+    height: 19rem;
+    width: 25rem;
+    margin-right: 2rem;
+    margin-left: 2rem;
+     
+}
+
 footer{
+    margin-right: 0.2rem;
+    margin-top: 5rem;    
+    margin-left: 8rem;
+    
+}
+
+ul{
     display: flex;
     justify-content: end;
-    cursor: pointer;
-    margin-top: 7rem;
+            
+}
+
+.izq{
+    margin-right: 0rem;
+    margin-left: 0rem;    
+}
+
+.iconi{
+    margin-right: 0rem;
+    margin-left: 0rem;    
+}
+
+.der{
+    margin-right: 1rem;
+    margin-left: 1rem;
+}
+
+.icond{
+    margin-right: 2rem;
+    margin-left: 0rem;
+    
 }
 
 footer p{
@@ -48,10 +82,9 @@ footer p{
 }
 
 footer img{
-    display: flex;
-    justify-content: center;
-    border-radius: 50%;
-    width: 7.7rem;
-    height: 7.7rem;
     
+    border-radius: 50%;
+    cursor: pointer;
+    width: 7.7rem;
+    height: 7.7rem;    
 }
