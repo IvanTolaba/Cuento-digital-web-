@@ -5,6 +5,7 @@ html {
 
 header{
     margin-top: 5rem;
+    margin-bottom:3rem ;
 }
 
 h1{
@@ -25,17 +26,15 @@ p{
     white-space: normal;
     color: rgb(221, 233, 232);
     font-family: Arial, Helvetica, sans-serif; 
-    /*font-family:'Helvetica','Verdana','Monaco',sans-serif;*/
+    
 }
 main{
     display: flex;
     justify-content: center;
 }
-.imagen{
-    
-    height: 18rem;
-    width: 29rem;
-    
+.imagen{    
+    height: 17rem;
+    width: 28rem;    
 }
 
 footer{
