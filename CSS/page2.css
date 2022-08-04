@@ -18,7 +18,7 @@ header h1 {
     font-size:1.8rem;
     color: beige;
     font-family:'Helvetica','Verdana','Monaco',sans-serif;
-    margin-right: 2rem;
+    margin-right: 1.9rem;
 }
 
 main{
@@ -35,13 +35,10 @@ main figure img{
     border-radius: 10%;    
     cursor: grab;
 }
-p{
-    color: rgba(199, 213, 218, 0.942);
-    font-size: large;
-}
+
 
 footer{
-    margin-right: 1rem;
+    margin-right: 0.9rem;
     margin-top: 5rem;    
     margin-left: 8rem;
     
@@ -78,7 +75,7 @@ footer p{
     color: coral;
     margin-right: 2rem;
     margin-top: 3.5rem;
-    font-size: 1.5rem;
+    font-size: 1.6rem;
     font-family: Arial, Helvetica, sans-serif;
 }
 
