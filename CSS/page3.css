@@ -19,6 +19,7 @@ h1{
 main{
     display: flex;
     justify-content: center;
+    margin-top: 3rem;
 }
 
 p{
@@ -43,9 +44,8 @@ main iframe{
 
 footer{
     margin-right: 0.1rem;
-    margin-top: 3rem;    
+    margin-top: 1.5rem;    
     margin-left: 8rem;
-
 }
 
 ul{
