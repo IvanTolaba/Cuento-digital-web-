@@ -2,7 +2,7 @@
 
 Este proyecto es un **cuento digital interactivo** desarrollado con **HTML, CSS y Bootstrap**, creado en el marco del concurso **Premio Itaú de Cuento Digital**.
 
-🔗 **Versión online:** [Cuento Digital Web](https://ivantolaba.github.io/Cuento-digital-web/)
+🔗 **Versión online:** [Cuento Digital Web](https://ivantolaba.github.io/Cuento-digital-web-/index.html)
 
 ---
 
@@ -30,7 +30,7 @@ La participación es **gratuita** y se realiza a través del sitio web oficial d
 
 ## 🚀 Deploy
 El proyecto fue publicado en **GitHub Pages** para acceso libre en línea:  
-👉 [https://ivantolaba.github.io/Cuento-digital-web/](https://ivantolaba.github.io/Cuento-digital-web/)  
+👉 [https://ivantolaba.github.io/Cuento-digital-web/](https://ivantolaba.github.io/Cuento-digital-web-/index.html)  
 
 ---
 
